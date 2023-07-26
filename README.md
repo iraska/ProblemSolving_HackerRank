@@ -1,2 +1,2 @@
 # ProblemSolving_HackerRank
-HackerRank Problem Solving section solutions
+HackerRank Problem Solving section solutions with C
